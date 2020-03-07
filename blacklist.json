@@ -1,0 +1,9 @@
+{
+  "blacklist": [
+    "@jupyterlab-examples/launcher",
+    "@tpoff/jupyterlab-tpoff_xkcd",
+    "@mohansrk/test",
+    "custom-git",
+    "jupyterlabtd_git"
+  ]
+}
