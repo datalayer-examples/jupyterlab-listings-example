@@ -1,7 +1,0 @@
-{
-  "whitelist": [
-    "@jupyterlab/*",
-    "@jupyterlab/git",
-    "@krassowski/jupyterlab_go_to_definition"
-  ]
-}
