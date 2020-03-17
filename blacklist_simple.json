@@ -1,7 +1,7 @@
 {
   "blacklist": [
     {
-      "name": "@jupyterlab-examples/launcher",
+      "name": "@jupyterlab-examples/settings",
       "type": "jupyterlab",
       "reason": "@jupyterlab-examples/launcher is blacklisted for test purpose - Do NOT take this for granted!!!",
       "creation_date": "2020-03-11T03:28:56.782Z",
