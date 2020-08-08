@@ -1,51 +1,51 @@
 {
-  "blacklist": [
+  "blocked_extensions": [
     {
       "name": "@jupyterlab-examples/settings",
       "type": "jupyterlab",
-      "reason": "@jupyterlab-examples/launcher is blacklisted for test purpose - Do NOT take this for granted!!!",
+      "reason": "@jupyterlab-examples/launcher is blocked_extensionsed for test purpose - Do NOT take this for granted!!!",
       "creation_date": "2020-03-11T03:28:56.782Z",
       "last_update_date":  "2020-03-11T03:28:56.782Z"
     },
     {
       "name": "@jupyterlab/toc",
       "type": "jupyterlab",
-      "reason": "@jupyterlab/toc is blacklisted for test purpose - Do NOT take this for granted!!!",
+      "reason": "@jupyterlab/toc is blocked_extensionsed for test purpose - Do NOT take this for granted!!!",
       "creation_date": "2020-03-11T03:28:56.782Z",
       "last_update_date":  "2020-03-11T03:28:56.782Z"
     },
     {
       "name": "@krassowski/jupyterlab-lsp",
       "type": "jupyterlab",
-      "reason": "@tpoff/jupyterlab-tpoff_xkcd is blacklisted for test purpose - Do NOT take this for granted!!!",
+      "reason": "@tpoff/jupyterlab-tpoff_xkcd is blocked_extensionsed for test purpose - Do NOT take this for granted!!!",
       "creation_date": "2020-03-11T03:28:56.782Z",
       "last_update_date":  "2020-03-11T03:28:56.782Z"
     },
     {
       "name": "@tpoff/jupyterlab-tpoff_xkcd",
       "type": "jupyterlab",
-      "reason": "@tpoff/jupyterlab-tpoff_xkcd is blacklisted for test purpose - Do NOT take this for granted!!!",
+      "reason": "@tpoff/jupyterlab-tpoff_xkcd is blocked_extensionsed for test purpose - Do NOT take this for granted!!!",
       "creation_date": "2020-03-11T03:28:56.782Z",
       "last_update_date":  "2020-03-11T03:28:56.782Z"
     },
     {
       "name": "@mohansrk.*",
       "type": "jupyterlab",
-      "reason": "All @mohansrk extensions are blacklisted for test purpose - Do NOT take this for granted!!!",
+      "reason": "All @mohansrk extensions are blocked_extensionsed for test purpose - Do NOT take this for granted!!!",
       "creation_date": "2020-03-11T03:28:56.782Z",
       "last_update_date":  "2020-03-11T03:28:56.782Z"
     },
     {
       "name": "custom-git",
       "type": "jupyterlab",
-      "reason": "custom-gitis blacklisted for test purpose - Do NOT take this for granted!!!",
+      "reason": "custom-gitis blocked_extensionsed for test purpose - Do NOT take this for granted!!!",
       "creation_date": "2020-03-11T03:28:56.782Z",
       "last_update_date":  "2020-03-11T03:28:56.782Z"
     },
     {
       "name": "jupyterlabtd_git",
       "type": "jupyterlab",
-      "reason": "jupyterlabtd_git is blacklisted for test purpose - Do NOT take this for granted!!!",
+      "reason": "jupyterlabtd_git is blocked_extensionsed for test purpose - Do NOT take this for granted!!!",
       "creation_date": "2020-03-11T03:28:56.782Z",
       "last_update_date":  "2020-03-11T03:28:56.782Z"
     }

@@ -1,5 +1,5 @@
 {
-  "whitelist": [
+  "blocked_extensions": [
     {
       "name": "@jupyterlab/*",
       "type": "jupyterlab",
@@ -11,13 +11,6 @@
       "name": "@jupyterlab/git",
       "type": "jupyterlab",
       "reason": "This git extension is developed by JupyterLab organisation",
-      "creation_date": "2020-03-11T03:28:56.782Z",
-      "last_update_date":  "2020-03-11T03:28:56.782Z"
-    },
-    {
-      "name": "@krassowski/jupyterlab_go_to_definition",
-      "type": "jupyterlab",
-      "reason": "This is whitelisted for test purpose - Do NOT take this for granted!!!",
       "creation_date": "2020-03-11T03:28:56.782Z",
       "last_update_date":  "2020-03-11T03:28:56.782Z"
     }
