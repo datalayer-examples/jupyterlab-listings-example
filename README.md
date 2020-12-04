@@ -1,3 +1,3 @@
-## Black and white listings examples for JupyterLab.
+## Allowed and Blocked Listings examples for JupyterLab.
 
 > This is only for development purposes.
